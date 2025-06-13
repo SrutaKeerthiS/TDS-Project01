@@ -1,0 +1,11 @@
+# Ignore directories
+discourse_json/
+__pycache__/
+venv/
+.venv/
+markdown_files/
+# Ignore files
+.env
+preprocess.py
+*.pyc
+.DS_Store
